@@ -1,0 +1,23 @@
+https://github.com/TestLeafPages/SelAug2021
+https://drive.google.com/drive/u/0/folders/1FU6qMZfgC3nvnGGPx9HJytD9B8SnSbzb
+https://mvnrepository.com/repos/central
+https://github.com/TestLeafPages/SelAug2021/blob/main/PageObjectModel.zip
+
+Week8.Day1.Class:
+=====================
+https://babu-testleaf.medium.com/the-untold-story-stale-element-reference-exception-in-selenium-9a334ea3b549
+https://github.com/TestLeafPages/SelAug2021/blob/main/week8/day1/LearnExtentReport.java
+===============================================================
+Week8.Day2.Class:Framework
+https://github.com/TestLeafPages/SelAug2021/blob/main/LeafBot.zip
+https://academy.testleaf.com/p/core-java
+
+jenkins password:
+b9da95afb4794e78a520af8e16cb9814
+username - Gokul
+password - Gokulraj06
+fullname -Gokulraj
+gokul.raj600@gmail.com
+http://localhost:8080/	
+https://github.com/TestLeafPages/JavaPrograms
+https://babu-testleaf.medium.com/the-untold-story-stale-element-reference-exception-in-selenium-9a334ea3b549
